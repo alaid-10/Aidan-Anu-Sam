@@ -2,7 +2,7 @@
 
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Aidan%20Anu%20Sam&reversal=false&textBg=true&fontSize=80&animation=scaleIn&desc=Student-Developer&descAlignY=57&fontAlignY=43&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Aidan%20Anu%20Sam&reversal=false&textBg=false&fontSize=80&animation=scaleIn&desc=Student-Developer&descAlignY=57&fontAlignY=43&section=header" />
 </p>
 
 <h1 align="center">Hiya 👋</h1>
