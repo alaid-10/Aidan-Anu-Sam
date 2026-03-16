@@ -4,8 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Aidan%20Anu%20Sam&reversal=false&textBg=false&fontSize=80&animation=scaleIn&desc=Student-Developer&descAlignY=57&fontAlignY=43&section=header" />
 </p>
 
-<h1 align="center">Hiya 👋, I'm Aidan Anu Sam</h1>
-<h3 align="center">Tech Aspirant | Future Engineer | CMO at Blue Sky WLL</h3>
+<h1 align="center">Hiya 👋</h1>
+<h3 align="center">Tech Aspirant | Future Engineer | CMO at Blue Sky W.L.L.</h3>
 
 ---
 
